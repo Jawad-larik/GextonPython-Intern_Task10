@@ -83,7 +83,7 @@ python guess_the_number.py
 
 **Developer:** Jawad Larik
 **Instructor:** Sir Muhammad Arham MH
-**Project:** Python Programming Task #10 – Sindh University / Gexton / IBA Certified Track
+**Project:** Python Programming Task #10 – Gexton Education, Autobhan RD Hyderabad
 
 ---
 
